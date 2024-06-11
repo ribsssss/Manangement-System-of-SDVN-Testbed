@@ -1,0 +1,45 @@
+------------------------------car2------------------------------
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=7.70 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=7.46 ms
+
+--- 192.168.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 7.464/7.583/7.703/0.119 ms
+
+------------------------------car17------------------------------
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=6.92 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=2.54 ms
+
+--- 192.168.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 2.543/4.733/6.924/2.190 ms
+
+------------------------------car20------------------------------
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=8.00 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=8.02 ms
+
+--- 192.168.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1005ms
+rtt min/avg/max/mdev = 8.004/8.013/8.022/0.009 ms
+
+------------------------------car3------------------------------
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=11.1 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=8.34 ms
+
+--- 192.168.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 8.340/9.719/11.099/1.379 ms
+
+------------------------------car8------------------------------
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=10.6 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=10.1 ms
+
+--- 192.168.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 10.103/10.338/10.574/0.235 ms
+

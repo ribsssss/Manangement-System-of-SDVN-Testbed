@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Sat Mar 30 02:33:07 2024 by Eclipse SUMO jtrrouter Version 1.4.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/jtrrouterConfiguration.xsd">
+
+    <input>
+        <net-file value="1.net.xml"/>
+        <route-files value="1.flows.xml"/>
+    </input>
+
+    <output>
+        <output-file value="1.rou.xml"/>
+    </output>
+
+    <processing>
+        <no-internal-links value="true"/>
+    </processing>
+
+    <time>
+        <begin value="0"/>
+        <end value="300"/>
+    </time>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="1.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="10.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="11.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="12.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="13.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="14.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="15.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="16.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="17.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="18.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="19.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="2.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="3.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="4.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="5.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="6.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="7.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="8.0" depart="0.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="9.0" depart="0.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="0.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="1.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="10.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="11.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="12.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="13.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="14.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="15.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="16.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="17.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="18.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="19.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="2.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="3.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="4.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="5.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="6.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="7.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+    <vehicle id="8.1" depart="100.00">
+        <route edges="gneE1"/>
+    </vehicle>
+    <vehicle id="9.1" depart="100.00">
+        <route edges="gneE0"/>
+    </vehicle>
+</routes>
